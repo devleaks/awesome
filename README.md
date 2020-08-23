@@ -1,14 +1,15 @@
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Miscellaneous utilities that will make your life easier.
 
-### Development
+### Development (Mostly Python and JS)
 
 * **JavaScript**
   * [rollup.js](https://rollupjs.org/guide/en/)
 
 * **Node**
   * [Note-red](https://nodered.org/)
+  * [RxJS](https://rxjs.dev)
 
 * **Frameworks**
   * [Yii](https://www.yiiframework.com)
@@ -27,3 +28,4 @@ Miscellaneous utilities that will make your life easier.
 
 * **Maps**
   * [Leaflet](https:://leafletjs.com/)
+
