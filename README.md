@@ -2,52 +2,31 @@
 
 Miscellaneous utilities that will make your life easier.
 
-### Development (Mostly Python and JS, and unix shells scripts. Of course.)
-
-I try to stay away from "compiled" languages, and strong typed languages.
-
-
-* **Editors**
-  * [Sublime Text](https://www.sublimetext.com) and selected add-on packages
-  * [Jupyter Labs](https://jupyter.org) and numerous python packages
-  * [Obsidian](https://obsidian.md) and some plugins
-
-
-* **JavaScript**
-  * [rollup.js](https://rollupjs.org/guide/en/)
-
-
-* **Frameworks**
-  * [Svelte](https://svelte.dev)
-  * [Yii](https://www.yiiframework.com)
-
-
 ### Math & Stats, Sciences
+
+* **Maps**
+  * [Leaflet](https:://leafletjs.com/)
+  * [Mapbox](https://www.mapbox.com)
+  * [Cesium](https://cesium.com)
+  * Kepler
 
 * **Graphical presentation**
   * [crossfilter](http://crossfilter.github.io/crossfilter/)
   * [dcjs](https://dc-js.github.io/dc.js/)
   * [d3](https://d3js.org)
 
-* **Maps**
-  * [Leaflet](https:://leafletjs.com/)
-  * [Mapbox](https://www.mapbox.com)
-  * [Cesium](https://cesium.com)
-
-* **Geo-processing**
-  * [Turf](http://turfjs.org) (there are JS (comprehensive) and Python (subset) versions)
-  * [GeoJSON](https://geojson.org) (or rather [geoyaml](https://github.com/louh/geoyaml), less quotes and ',' seperators!)
-
+* And numerous python packages
+  * Vega-Altair
 
 ### Geospatial
 
 * **Tools**
   * QGis
 
-
-* **Libraries, tools**
-  * proj
-
+* **Geo-processing**
+  * [Turf](http://turfjs.org) (there are JS (comprehensive) and [Python](https://github.com/pyturf/pyturf) (subset) [versions](https://github.com/pyturf/pyturf))
+  * [GeoJSON](https://geojson.org) (or rather [geoyaml](https://github.com/louh/geoyaml), less quotes and ',' seperators!)
+  * [__geo_interface__](https://gist.github.com/sgillies/2217756)
 
 * **Display**
   * [Cartes](https://cartes-viz.github.io)
@@ -67,5 +46,39 @@ I try to stay away from "compiled" languages, and strong typed languages.
 
 
 * **ADS-B, ADS-C**
-  *
+  * dump1090
+  * Opensky Network
+  * ADSBExchange
+  * Flightradar, Flight aware (too €€€)
 
+* **Others**
+  * METAR, TAF
+  * metview
+
+### Development (Mostly Python and JS, and unix shells scripts. Of course.)
+
+I try to stay away from "compiled" languages, and strong typed languages.
+I favor python, JavaScript, with tools to check code
+
+
+* **Editors**
+  * [Sublime Text](https://www.sublimetext.com) and selected add-on packages
+  * [Jupyter Labs](https://jupyter.org) and numerous python packages
+
+
+* **JavaScript**
+  * [rollup.js](https://rollupjs.org/guide/en/)
+
+* **Python**
+  * Black
+  * Mypy
+
+### Documentation, presentation, brainstorming, notes, jotting
+
+* **Editors**
+  * Mindnotes (MacOS app)
+  * [Obsidian](https://obsidian.md) and some plugins
+  * Draw.io
+  * Reveal.js
+  * Mermaid
+  * Excalidraw
