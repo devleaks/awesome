@@ -18,6 +18,8 @@ Miscellaneous utilities that will make your life easier.
 * And numerous python packages
   * Vega-Altair
 
+
+
 ### Geospatial
 
 * **Tools**
@@ -55,6 +57,8 @@ Miscellaneous utilities that will make your life easier.
   * METAR, TAF
   * metview
 
+
+
 ### Development (Mostly Python and JS, and unix shells scripts. Of course.)
 
 I try to stay away from "compiled" languages, and strong typed languages.
@@ -73,6 +77,8 @@ I favor python, JavaScript, with tools to check code
   * Black
   * Mypy
 
+
+
 ### Documentation, presentation, brainstorming, notes, jotting
 
 * **Editors**
@@ -82,3 +88,6 @@ I favor python, JavaScript, with tools to check code
   * Reveal.js
   * Mermaid
   * Excalidraw
+
+
+[in](https://www.linkedin.com/in/pierremareschal/)
