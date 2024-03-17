@@ -1,6 +1,8 @@
-# awesome tools [![Awesome](https://raw.githubusercontent.com/devleaks/awesome/master/awesome.svg)
+# awesome tools [![Awesome](https://raw.githubusercontent.com/devleaks/awesome/master/awesome.svg)](https://github.com/sindresorhus/awesome)
 
-Miscellaneous utilities that will make your life easier.
+Miscellaneous application and utilities that will make your developer life easier.
+
+
 
 ### Math & Stats, Sciences
 
@@ -89,5 +91,4 @@ I favor python, JavaScript, with tools to check code
   * Mermaid
   * Excalidraw
 
-
-[![linkedin](https://raw.githubusercontent.com/devleaks/awesome/master/linkedin.svg)(https://www.linkedin.com/in/pierremareschal/)
+[![linkedin](https://raw.githubusercontent.com/devleaks/awesome/master/linkedin.svg)](https://www.linkedin.com/in/pierremareschal/)
