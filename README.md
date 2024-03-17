@@ -1,4 +1,4 @@
-# awesome tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome tools [![Awesome](https://raw.githubusercontent.com/devleaks/awesome/master/awesome.svg)
 
 Miscellaneous utilities that will make your life easier.
 
@@ -90,4 +90,4 @@ I favor python, JavaScript, with tools to check code
   * Excalidraw
 
 
-[in](https://www.linkedin.com/in/pierremareschal/)
+[![linkedin](https://raw.githubusercontent.com/devleaks/awesome/master/linkedin.svg)(https://www.linkedin.com/in/pierremareschal/)
