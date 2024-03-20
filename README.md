@@ -91,4 +91,18 @@ I favor python, JavaScript, with tools to check code
   * Mermaid
   * Excalidraw
 
+
+### Design Patterns
+
+I extensively use the following design patterns (more or less strickly, but with inspiration):
+
+  * [Convention over configuration](https://en.wikipedia.org/wiki/Convention_over_configuration)
+  * [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
+
+I discovered the first one years ago while developing with Ruby on Rails.
+
+I discovered the latest while extensively developing withing the outstanding [Yii2 framework](https://www.yiiframework.com).
+
+
+
 [![linkedin](https://raw.githubusercontent.com/devleaks/awesome/master/linkedin.svg)](https://www.linkedin.com/in/pierremareschal/)
